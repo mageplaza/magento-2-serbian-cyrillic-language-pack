@@ -17,11 +17,11 @@ Read more [Magento 2 Serbian (Cyrillic) Language Pack](https://www.mageplaza.com
 
 This is status of Serbian (Cyrillic) Language Pack, you can see how many percentage of this project has been done.
 
-![language pack](http://progressed.io/bar/6?title=translated)
+![language pack](http://progressed.io/bar/5?title=translated)
 
 It is not fully translated? Feel free to contribute:
 - [On Crowdin](https://crowdin.com/project/magento-2): It takes time to approve your contribution by Magento team.
-- [On Github])(https://github.com/mageplaza/magento-2-serbian-cyrillic-language-pack/blob/master/HOW-TO-CONTRIBUTE.md): It's faster, our team will approve it after you send pull request.
+- [On Github](https://github.com/mageplaza/magento-2-serbian-cyrillic-language-pack/blob/master/HOW-TO-CONTRIBUTE.md): It's faster, our team will approve it after you send pull request.
 
 
 Find other [language packs here](https://www.mageplaza.com/kb/magento-2-language-pack/)
