@@ -7,13 +7,13 @@ Read more [Magento 2 Serbian (Cyrillic) Language Pack](https://www.mageplaza.com
 
 ## Overview
 
-1. [Language Package Process](#1-language-package-process)
-2. [Install Serbian (Cyrillic) Language Pack](#2-how-to-install-hungarian-language-pack)
-3. [How to active Serbian (Cyrillic) language pack](#3-how-to-active-hungarian-language-pack)
-4. [How to contribute](#4-how-to-contribute)
-5. [Supported Magento versions](#5-supported-magento-version)
-6. [Notes](#6-notes})
-7. [Language package authors](#7-language-package-authors)
+1. Language Package Process
+2. Install Serbian (Cyrillic) Language Pack
+3. How to active Serbian (Cyrillic) language pack
+4. How to contribute
+5. Supported Magento versions
+6. Notes
+7. Language package authors
 
 ## 1. Language Package Process
 
