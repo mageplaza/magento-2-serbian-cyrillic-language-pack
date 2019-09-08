@@ -4,7 +4,7 @@
 
 Read more [Magento 2 Serbian (Cyrillic) Language Pack](https://www.mageplaza.com/magento-2-serbian-cyrillic-language-pack.html)
 
-![Mageplaza Serbian (Cyrillic) language pack](https://i.imgur.com/qjWPj1W.png)
+![Mageplaza Serbian (Cyrillic) language pack](https://cdn3.mageplaza.com/media/general/qjWPj1W.png)
 
 ## Overview
 
