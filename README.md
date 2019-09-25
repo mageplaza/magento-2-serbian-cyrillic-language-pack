@@ -20,7 +20,7 @@ Read more [Magento 2 Serbian (Cyrillic) Language Pack](https://www.mageplaza.com
 
 This is status of Serbian (Cyrillic) Language Pack, you can see how many percentage of this project has been done.
 
-![language pack](https://progress-bar.dev/0/?title=translated)
+![language pack](https://progress-bar.dev/15/?title=translated)
 
 It is not fully translated? Feel free to contribute:
 - [On Crowdin](https://crowdin.com/project/magento-2): It takes time to approve your contribution by Magento team.
@@ -40,7 +40,7 @@ Install the Serbian (Cyrillic) language pack via composer is never easier.
 
 ```
 composer require mageplaza/magento-2-serbian-cyrillic-language-pack:dev-master
-php bin/magento setup:static-content:deploy sr_Cyrl_RS
+php bin/magento setup:static-content:deploy sr_SP
 php bin/magento indexer:reindex
 php bin/magento cache:clean
 php bin/magento cache:flush
@@ -52,7 +52,7 @@ php bin/magento cache:flush
 
 ```
 composer update mageplaza/magento-2-serbian-cyrillic-language-pack:dev-master
-php bin/magento setup:static-content:deploy sr_Cyrl_RS
+php bin/magento setup:static-content:deploy sr_SP
 php bin/magento indexer:reindex
 php bin/magento cache:clean
 php bin/magento cache:flush
@@ -97,7 +97,7 @@ Your Magento 2 root folder can be: `/home/account_name/yourstore.com/public_html
 unzip master.zip app/i18n/Mageplaza/
 ```
 
-Rename folder `magento-2-serbian-cyrillic-language-pack` to `sr_cyrl_rs`.
+Rename folder `magento-2-serbian-cyrillic-language-pack` to `sr_sp`.
 
 
 You also can unzip locally and upload them to Magento 2 root folder.
@@ -118,13 +118,13 @@ To download and install Serbian (Cyrillic) pack manually, you have to access to 
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/sr_cyrl_rs/`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/sr_sp/`
 
 See this screenshot:
 
 ![Serbian (Cyrillic) pack](https://cdn3.mageplaza.com/media/general/language-pack.png)
 
-This language pack code is: **sr_cyrl_rs**
+This language pack code is: **sr_sp**
 
 #### Step 2: Flush cache
 
